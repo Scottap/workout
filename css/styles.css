@@ -24,7 +24,7 @@ div.jumbotron#first {
 }
 div.jumbotron#first h1 {
   transition: all 0.4s ease-in-out;
-  font-size: 102px;
+  font-size: 13vw;
 }
 div.jumbotron#first h1:hover {
   color: #fafafa;

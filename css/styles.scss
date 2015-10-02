@@ -7,6 +7,7 @@ $twoSeconds: all .2s ease-in-out;
 $fourSeconds: all .4s ease-in-out;
 $hoverColor: #666666;
 $jumbotronSize: 54px; 
+$vwJumbo: 13vw;
 
 body {
 	background-color: $background;
@@ -33,7 +34,7 @@ div.jumbotron#first {
 	text-align: center;
 	h1 {
 		transition: $fourSeconds;
-		font-size: $jumbotronSize + 48;
+		font-size: $vwJumbo;
 		&:hover {
 			color: $primaryColor;
 			opacity: 0.8;
