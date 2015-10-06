@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 body {
-  background-color: #fafafa;
+  background: url("../images/21702939635_2e8cef2c92_k.jpg") 50% 90%;
   font-family: Open Sans, Serif;
 }
 
@@ -18,7 +18,7 @@ div.jumbotron h1:hover {
 }
 
 div.jumbotron#first {
-  background: url("../images/jumbotron1bg.jpg") 70% 80% no-repeat;
+  background: url("../images/21515032920_40bbb80f16_k.jpg") 50% 90% no-repeat;
   background-size: cover;
   text-align: center;
 }
